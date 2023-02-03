@@ -1,0 +1,13 @@
+.details-title{
+    font-family: "Tahoma";
+    color: #696969;
+}
+.item-details label{
+    font-family: "Tahoma";
+    font-weight: bolder;
+    color: #5F9EA0;
+}
+.back-btn{
+    position: relative;
+    top: 10px;
+}

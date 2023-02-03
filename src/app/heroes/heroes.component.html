@@ -1,0 +1,8 @@
+<div class="heores-title">
+    <h2>My Heroes</h2>
+</div>
+<div *ngFor="let hero of heroes_data" routerLink="/details/{{hero.id}}" class="p-inputgroup heroe-grph">
+    <span class="p-inputgroup-addon">{{hero.id}}</span>
+    <input type="text" pInputText value="{{hero.name}}" disabled>         
+</div>
+

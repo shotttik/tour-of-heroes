@@ -1,0 +1,12 @@
+.dashboard-container{
+    right: 35%;
+    top: 125px;
+}
+.dashboard-container .title{
+    color: gray;
+    position: relative;
+    left: 200px;
+}
+.heroes-btn{
+    margin-right: 20px;
+}

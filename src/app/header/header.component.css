@@ -1,0 +1,11 @@
+
+.header-title{
+    color: #336699;
+    font-family: 'Tahoma';
+}
+
+.heroes-btn{
+    position: fixed;
+    left: 180px;
+    top: 82px;
+}
